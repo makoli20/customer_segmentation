@@ -60,9 +60,8 @@ Since this is an unsupervised clustering task, traditional evaluation metrics ar
 - Include older individuals - late 30’s through their 80’s
 - Belong to the low-income group
 
-- Cluster profiling was performed to identify star customers and those requiring more attention from the marketing team.
-
-- Check the plots below for understanding the profiling into groups
+Cluster profiling was performed to identify star customers and those requiring more attention from the marketing team.
+Check the plots below for understanding the profiling into groups
 **Profiling**
 
 - ![Teenhome_plot](https://github.com/makoli20/customer_segmentation/assets/128938502/107b0b8d-745d-424f-bcc2-8eab4a1f6856)
