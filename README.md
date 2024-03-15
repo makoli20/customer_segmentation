@@ -35,14 +35,34 @@ Since this is an unsupervised clustering task, traditional evaluation metrics ar
 
 **Key Insights:**
 
-- The "Income vs Spending" plot revealed distinct cluster patterns:
-  - Group 0: High spending & above-average income
-  - Group 1: Low spending & low income
-  - Group 2: High spending & high income
-  - Group 3: Low spending & below-average income
+**Group 0:**
+- Middle-aged individuals with no young adults
+- Typically have 1 or 2 children
+- All are either married or living together
+- All are parents 
+
+**Group 1:**
+- Includes young adults (mid to late 20’s) through individuals in their 80’s
+- Have either 0 or 1 child
+- Can either be parents or not
+- Mostly do not have teenagers; have younger kids
+- Belong to the low-income group
+
+**Group 2:**
+- People ranging from their 30’s through their 80’s
+- Are definitely not parents
+- Belong to the high-income group
+- Belong to the high-spending group
+
+**Group 3:**
+- Have children (either 1, 2, or 3)
+- Mostly have teenagers and rarely younger kids
+- Include older individuals - late 30’s through their 80’s
+- Belong to the low-income group
 
 - Cluster profiling was performed to identify star customers and those requiring more attention from the marketing team.
 
+- Check the plots below for understanding the profiling into groups
 **Profiling**
 
 - ![Teenhome_plot](https://github.com/makoli20/customer_segmentation/assets/128938502/107b0b8d-745d-424f-bcc2-8eab4a1f6856)
