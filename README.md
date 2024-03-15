@@ -1,9 +1,9 @@
-**Customer Segmentation Analysis**
+# **Customer Segmentation Analysis**
 
-**Dataset Overview:**
+## **Dataset Overview:**
 The repository contains an analysis of customer segmentation based on a dataset with 2240 rows and 29 columns. The dataset encompasses various aspects of customer information, product preferences, purchasing behavior, and responses to promotions.
 
-**Dataset Subsets:**
+### **Dataset Subsets:**
 
 1. **Customer Information**: 
    - ID, Year of Birth, Education, Marital Status, Income, Number of Children at Home, Number of Teenagers at Home, Date of Customer Registration, Recency of Purchase
@@ -17,7 +17,7 @@ The repository contains an analysis of customer segmentation based on a dataset 
 4. **Response to Promotions**:
    - Number of Deals Purchased, Responses to Various Marketing Campaigns (Cmp1, Cmp2, Cmp3, Cmp4, Cmp5)
 
-**Analysis Approach:**
+## **Analysis Approach:**
 
 **Dimensionality Reduction:**
 The analysis commenced with dimensionality reduction using Principal Component Analysis (PCA). This technique was employed to minimize redundant features and enhance interpretability while minimizing information loss.
@@ -33,7 +33,7 @@ Clustering was carried out utilizing Agglomerative Clustering, a hierarchical me
 **Evaluation of the Model:**
 Since this is an unsupervised clustering task, traditional evaluation metrics are not applicable. Instead, the clusters' patterns were examined to understand customer segmentation better.
 
-**Key Insights:**
+## **Key Insights:**
 
 **Group 0:**
 - Middle-aged individuals with no young adults
@@ -63,7 +63,7 @@ Since this is an unsupervised clustering task, traditional evaluation metrics ar
 Cluster profiling was performed to identify star customers and those requiring more attention from the marketing team.
 Check the plots below for understanding the profiling into groups
 
-**Profiling**
+## **Profiling**
 
 - ![Teenhome_plot](https://github.com/makoli20/customer_segmentation/assets/128938502/107b0b8d-745d-424f-bcc2-8eab4a1f6856)
 -![Kidhome_plot](https://github.com/makoli20/customer_segmentation/assets/128938502/dd138fd4-304b-4249-b17c-efa97d7acf0a)
