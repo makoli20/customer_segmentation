@@ -43,6 +43,8 @@ Since this is an unsupervised clustering task, traditional evaluation metrics ar
 
 - Cluster profiling was performed to identify star customers and those requiring more attention from the marketing team.
 
+** Profiling **
+
 - ![Teenhome_plot](https://github.com/makoli20/customer_segmentation/assets/128938502/107b0b8d-745d-424f-bcc2-8eab4a1f6856)
 -![Kidhome_plot](https://github.com/makoli20/customer_segmentation/assets/128938502/dd138fd4-304b-4249-b17c-efa97d7acf0a)
 
@@ -53,7 +55,8 @@ Since this is an unsupervised clustering task, traditional evaluation metrics ar
 - ![customer_days_plot](https://github.com/makoli20/customer_segmentation/assets/128938502/ce79d41b-80fe-46ab-8fc5-a8e8ec5fd27a)
 - ![Children_plot](https://github.com/makoli20/customer_segmentation/assets/128938502/3ff06eeb-02ee-42ca-8845-8d10fc7243d8)
 - ![Age_plot](https://github.com/makoli20/customer_segmentation/assets/128938502/40251e4d-3892-4c29-b663-081ad991b964)
-- 
+
+  
 
 
 
